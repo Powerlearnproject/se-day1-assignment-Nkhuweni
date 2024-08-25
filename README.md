@@ -10,7 +10,7 @@ Software engineering is a systematic, disciplined, and quantifiable approach to 
 2. Design: Planning the structure and user interface of the software.
 3. Development: Writing the code that makes the software function.
 4. Testing: Ensuring that the software works as intended.
-5. Maintenance: Updating and improving software over time to fix issues or add new features
+5. Maintenance: Updating and improving software over time to fix issues or add new features.
 
 
 Identify and describe at least three key milestones in the evolution of software engineering.
